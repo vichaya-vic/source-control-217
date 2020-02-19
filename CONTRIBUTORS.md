@@ -1,1 +1,1 @@
-This project is written by Tappasarn A. , Vichaya V.
+This project is written by Tappasarn A., Vichaya V. Mahidol University
